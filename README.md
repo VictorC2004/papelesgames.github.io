@@ -1,6 +1,6 @@
 # papelesgames.github.io
 Policy Privacy
-TALACTITE — Política de privacidad
+STALACTITE — Política de privacidad
 Desarrollador: Papeles Games · Última actualización: 18 de octubre de 2026
 
 Esta política explica cómo trata tus datos el juego STALACTITE para Android.
